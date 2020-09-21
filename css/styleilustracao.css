@@ -66,6 +66,7 @@
 				transition: all .3s ease;
 				opacity: 0;
 				background: #000000;
+				margin-bottom: 3.08vw;
 			}
 
 			.containerpolvo:hover .overlaypolvo{
@@ -304,11 +305,11 @@
 			@media screen and (max-width:500px){
 				#assinatura{position: fixed;right: 5%;top: 70px;width: 20%}
 			
-			label{display: block;align-content: right;right: 5%;color: #909090}
+			label{display: block;align-content: right;right: 5%;color: #909090;}
 			.nav{width: 100%}
 			.menu{ text-align: center; display: none; padding-top: 70px; }
 			.menu a { display: block;font: bold normal 22px/22px Akzidenz-Grotesk BQ Extra Conde;background: #ffffff;border-bottom: 1px solid #ffffff;margin:0;line-height: 70px; }
-			.satiras{padding-top: 55px}
+			.satiras{padding-top: 55px;}
 			#toggle:checked + .menu{display: block;}
 			.textreflexion{font:Bold 12px/12px Akzidenz-Grotesk BQ Extra Conde;}
 			.textoff{font:Bold 12px/12px Akzidenz-Grotesk BQ Extra Conde;}

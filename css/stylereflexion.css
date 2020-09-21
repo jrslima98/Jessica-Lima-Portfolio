@@ -131,7 +131,7 @@
 				.text2{width: 65vw; font: 300 20px/22px Akzidenz-Grotesk BQ with;}
 				.text3{width: 65vw; font: 300 20px/22px Akzidenz-Grotesk BQ with;}
 				.text4{width: 65vw; font: 300 20px/22px Akzidenz-Grotesk BQ with;}
-				.video{top: 0vw; left: 10vw;  }
+				.video{top: 0vw; left: 10vw; }
 			}
 			
 
@@ -146,7 +146,7 @@
 				
 				.text3{width: 60vw; font: 300 17px/19px Akzidenz-Grotesk BQ with;}
 				.text4{width: 60vw; font: 300 17px/19px Akzidenz-Grotesk BQ with;}
-				.video{top: -6vw; left: 10vw;  }
+				.video{top: -6vw; left: 10vw; }
 				
 
 				
@@ -162,7 +162,7 @@
 			.text3{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; }
 			.text4{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; }
 			h1{left: 26vw;}
-			.video{top: -12vw; left: 10vw;  }
+			.video{top: -12vw; left: 10vw; }
 
 			}
 
@@ -181,7 +181,28 @@
 			.text2{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; }
 			.text3{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; left: 5vw;}
 			.text4{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; left: 5vw;}
-			.video{top: -12vw; left: 12vw;  }
+			.video{top: -16vw; left: 12vw;  }
 			
 			}
+
+			@media screen and (max-width:400px){
+				#assinatura{position: fixed;right: 5%;top: 70px;width: 20%}
 			
+			label{display: block;align-content: right;right: 5%;color: #909090}
+			.nav{width: 100%}
+			.menu{ text-align: center; display: none; padding-top: 70px; }
+			.menu a { display: block;font: bold normal 22px/22px Akzidenz-Grotesk BQ Extra Conde;background: #ffffff;border-bottom: 1px solid #ffffff;margin:0;line-height: 70px; }
+			.satiras{padding-top: 55px}
+			#toggle:checked + .menu{display: block;}
+			.title{font: Bold 22px/24px Akzidenz-Grotesk BQ Extra Conde; }
+			h1{left: 26vw;}
+			.text{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; }
+			.text2{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; top: 66vw; }
+			.text3{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; left: 5vw;}
+			.text4{width: 60vw; font: 300 16px/18px Akzidenz-Grotesk BQ with; left: 5vw;}
+			.video{top: -30vw; left: 12vw;  }
+			
+			}
+
+			 
+			 

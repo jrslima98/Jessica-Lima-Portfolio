@@ -106,7 +106,8 @@
 				margin: 41px;}
 
 			.stopmotion{display: block;
-				width: 30.15625vw;}
+				width: 30.15625vw;
+				margin-bottom: 3.08vw;}
 
 			.overlaystopmotion{position: absolute;
 				transition: all 0.3s ease;

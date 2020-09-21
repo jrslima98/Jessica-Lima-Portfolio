@@ -104,7 +104,9 @@
 				margin-bottom: 41px;}
 
 			.composição{display: block;
-				width:31.25vw;}
+				width:31.25vw;
+			margin-bottom: 3.08vw;}
+
 
 			.overlaycomp{position: absolute;
 				transition: all 0.3s ease;
